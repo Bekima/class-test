@@ -1,0 +1,15 @@
+div {
+    width: 100px;
+    height: 200px;
+    background-color: lavender;
+}
+#numTwo {
+    background-color: lightcyan;
+}
+.par {
+    color: goldenrod;
+}
+ div:nth-child(3) {
+    background-color: purple;
+    width: 450px;
+} 
